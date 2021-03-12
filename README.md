@@ -7,6 +7,12 @@
 - [Draw a pascal triangle](pascal.c)
 - [Draw a triangle using recursion](triangle.c)
     - [Before that, consider checking - count from 1 to n](count.c)
+- [Call by value and Call by reference](call.c)
+- [Structs](structures.c)
+- [Pointers](pointer.c)
+- [Sum using pointers](sum.c)
+- [Output elements of an array](array.c)
+- [Searching in an array (Linear Search)](search.c)
 
 ## Find me at
 
