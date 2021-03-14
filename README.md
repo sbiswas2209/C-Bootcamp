@@ -13,6 +13,10 @@
 - [Sum using pointers](sum.c)
 - [Output elements of an array](array.c)
 - [Searching in an array (Linear Search)](search.c)
+- [Check for pallindrome numbers](pallindrome.c)
+- [Fibonacci Series](fibonnaci.c)
+- [Fibonacci Series Recursive method](fibonnaci_rec.c)
+- [Average of elements in array](average.c)
 
 ## Find me at
 
